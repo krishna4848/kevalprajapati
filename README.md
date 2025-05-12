@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Keval Prajapati – a Data Analyst & ML Engineer passionate about turning data into actionable insights.
 
-🎓 M.Eng. in Electrical & Computer Engineering (AI & ML) from the University of Waterloo
+🎓 M.Eng. in Electrical & Computer Engineering (AI & ML) from the University of Waterloo </br>
 🏆 Double gold medalist in Computer Engineering, CHARUSAT University
 💼 Experience in Data Analytics, BI, MLOps, and SaaS | Junior Project Manager @ Venuiti | ML Engineer @ Vosyn
 
