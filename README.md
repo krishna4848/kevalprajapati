@@ -14,3 +14,4 @@ Python • SQL • Power BI • TensorFlow • AWS • Excel • Scikit-learn �
 🚀 I enjoy building solutions that simplify decision-making, optimize processes, and empower teams with data.
 
 📬 Let’s connect! I’m always open to collaboration, learning, and exciting ideas.
+ 
